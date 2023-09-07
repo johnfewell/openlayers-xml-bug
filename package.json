@@ -1,0 +1,13 @@
+{
+  "name": "wmts-capabilities",
+  "dependencies": {
+    "ol": "8.0.0"
+  },
+  "devDependencies": {
+    "vite": "^3.2.3"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  }
+}
